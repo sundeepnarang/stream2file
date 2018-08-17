@@ -1,6 +1,6 @@
 {
   "name": "stream2file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Writes a stream to a file",
   "main": "index.js",
   "scripts": {
