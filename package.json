@@ -16,9 +16,6 @@
   ],
   "author": "Sundeep Narang <sundeepnrng@gmail.com> (https//sundeepnarang.com)",
   "license": "MIT",
-  "dependencies": {
-    "lodash": "^4.17.4"
-  },
   "devDependencies": {
     "mocha": "9.2.0",
     "should": "13.2.3"
