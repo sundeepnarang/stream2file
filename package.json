@@ -1,6 +1,6 @@
 {
   "name": "stream2file",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Writes a stream to a file",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "9.2.0",
+    "should": "13.2.3"
   }
 }
